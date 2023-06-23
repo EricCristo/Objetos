@@ -21,4 +21,5 @@ const novaPessoa = {
     nome: "Anny",
 }
 
+//nao podemos reatribuir a const, mas podemos mexer nos valores internos
 pessoa = novaPessoa
