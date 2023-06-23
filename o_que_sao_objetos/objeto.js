@@ -11,3 +11,4 @@ const objetoPessoa = {
 }
 
 console.log(objetoPessoa);
+ 
