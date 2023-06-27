@@ -1,7 +1,6 @@
 O que foi aprendido :
 
-Que para manipular objetos literais podemos
- utilizar os métodos do JavaScript para cada tipo de dado;
+Que para manipular objetos literais podemos utilizar os métodos do JavaScript para cada tipo de dado;
 
 Que os valores em um objeto podem ser tipos primitivos 
 (strings, números, booleanos e null), arrays ou outros objetos;
