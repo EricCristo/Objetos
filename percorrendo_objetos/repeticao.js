@@ -14,7 +14,7 @@ cliente.enderecos = [
     complemento: "R/C esq"
     },
 ];
-
+            //para cada um de --->ç
 for (let chave in cliente){
     let tipo = typeof cliente[chave];
     if (tipo !== "object" && tipo !== "function"){
